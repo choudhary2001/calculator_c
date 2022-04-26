@@ -30,7 +30,7 @@ int main()
         printf("\n");
         printf("%s : ", KEY);
 
-        Calc_oprn=getche();
+        Calc_oprn=getch();
 
         switch(Calc_oprn)
         {
